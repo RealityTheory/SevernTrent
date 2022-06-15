@@ -1,0 +1,1 @@
+{ 	"name": "23634_Water_Aid_Ball_2022_1_Home_PM", 	"start_url": "../index.html?standalone=1", 	"display": "standalone", 	"background_color": "#ededed", 	"description": "", 	"icons": [ 		{ 			"src": "images/icon.png", 			"sizes": "144x144", 			"type": "image/png", 			"purpose": "any maskable" 		} 	] }
